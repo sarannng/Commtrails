@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "335779130256",
+    "firebase_url": "https://remind-you-2d2e1.firebaseio.com",
+    "project_id": "remind-you-2d2e1",
+    "storage_bucket": "remind-you-2d2e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335779130256:android:a4d46213f8dc2f2d712115",
+        "android_client_info": {
+          "package_name": "com.company.remindyou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335779130256-l4vd64rb2j9g0vlhfm1r8ljunn4759f9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvLFxpwhE1KJcbqHyEjbmE0elGK_F8dz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335779130256-l4vd64rb2j9g0vlhfm1r8ljunn4759f9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

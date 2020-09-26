@@ -1,0 +1,24 @@
+
+    Assumnptions: The own mobile collection is setted up already 
+
+    mobile
+            -d, mobile,
+                        chat
+                                -d(sender_mobile )
+                                                    message,c
+                                                        first: false    
+                                                        sender_mobile:
+
+
+on tap of contact function for setting up the first chat(){
+
+    check if the that mobile already exist in our chat.
+
+        create a chat head in our device with recivers photo and name
+        add the first parameter as true
+        3. addd the path parameter with the path of messages location of the reciver.
+
+
+        and do the same for reciver with our photo the first parameter as false
+    
+}

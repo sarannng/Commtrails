@@ -28,11 +28,3 @@ A generic chattng application.
  <h3>Info Screen</h3> 
  <img src="images/info.jpeg" width="250" >
  
- <h3>Server Leads</h3> 
- <img src="images/sleads.png" width="250" >
-
- <h3>Server bidscreen</h3> 
-   <img src="images/sbidscreen.png" width="250" >
-
- <h3>Server Details</h3> 
- <img src="images/last.png" width="250" >
